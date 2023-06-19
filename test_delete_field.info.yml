@@ -1,0 +1,5 @@
+name: Test Delete Field
+type: module
+description: 'Test Delete Field (derived from Voting API Widgets)'
+package: Other
+core_version_requirement: ^8.8.2 || ^9 || ^10 || ^11
